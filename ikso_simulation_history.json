@@ -1,0 +1,258 @@
+[
+    {
+        "date": "2025-12-16 22:40",
+        "agent": "Custom",
+        "cost": 29.8,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-16 22:58",
+        "agent": "Custom",
+        "cost": 33.6,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-16 23:06",
+        "agent": "Custom",
+        "cost": 31.34,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-16 23:09",
+        "agent": "Custom",
+        "cost": 29.76,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-16 23:09",
+        "agent": "Custom",
+        "cost": 31.43,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-16 23:09",
+        "agent": "Custom",
+        "cost": 39.68,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-16 23:12",
+        "agent": "Custom",
+        "cost": 32.18,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 18:45",
+        "agent": "Custom",
+        "cost": 37.99,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 18:49",
+        "agent": "Custom",
+        "cost": 25.8,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 18:53",
+        "agent": "Custom",
+        "cost": 39.87,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 19:20",
+        "agent": "Custom",
+        "cost": 31.19,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 19:36",
+        "agent": "Custom",
+        "cost": 35.21,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 19:40",
+        "agent": "Custom",
+        "cost": 28.02,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 19:41",
+        "agent": "Custom",
+        "cost": 33.93,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 19:50",
+        "agent": "Custom",
+        "cost": 37.35,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 19:53",
+        "agent": "Custom",
+        "cost": 26.35,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 19:56",
+        "agent": "Custom",
+        "cost": 38.16,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:01",
+        "agent": "Custom",
+        "cost": 34.68,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:10",
+        "agent": "Custom",
+        "cost": 32.21,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:18",
+        "agent": "Custom",
+        "cost": 34.45,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:18",
+        "agent": "Custom",
+        "cost": 35.55,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:21",
+        "agent": "Custom",
+        "cost": 41.34,
+        "pv": 0.7,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.3
+    },
+    {
+        "date": "2025-12-17 20:23",
+        "agent": "Custom",
+        "cost": 35.21,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:26",
+        "agent": "Custom",
+        "cost": 36.39,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:27",
+        "agent": "Custom",
+        "cost": 35.15,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:29",
+        "agent": "Custom",
+        "cost": 28.86,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:33",
+        "agent": "Custom",
+        "cost": 32.1,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:37",
+        "agent": "Custom",
+        "cost": 34.45,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:42",
+        "agent": "Custom",
+        "cost": 28.52,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 20:43",
+        "agent": "Custom",
+        "cost": 32.27,
+        "pv": 0.9,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 22:07",
+        "agent": "Custom",
+        "cost": 35.51,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    },
+    {
+        "date": "2025-12-17 22:17",
+        "agent": "Custom",
+        "cost": 33.33,
+        "pv": 0.8,
+        "comfort": 0.5,
+        "co2_saved_kg": 0.4
+    }
+]

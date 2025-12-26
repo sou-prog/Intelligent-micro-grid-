@@ -1,0 +1,4 @@
+co2 avec referenciel de quel institu d'energie 
+base d esonnée pour stocker les données de chaque simulation et rendre les kpi dans la page d'acceuil ca;lculable et non pas statique 
+previsions selon saison et non pas de 72 h 
+euro dans les pays europienne et mad au maroc
